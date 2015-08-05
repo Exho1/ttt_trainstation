@@ -1,0 +1,6 @@
+"LightMappedGeneric"
+{
+	"$basetexture" "train/plasticfloor"
+	"$bumpmap"    "train/plasticfloor_normal"
+	"$surfaceprop" "rubber"
+}

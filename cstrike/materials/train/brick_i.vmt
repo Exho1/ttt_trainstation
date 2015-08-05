@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	$basetexture "train/brick_i"
+	$surfaceprop "brick"
+	$bumpmap "train/brick_i_normals"
+	//"$detail" 				"detail\plaster_detail_01"
+	//"$detailscale" 			"[8 8 8 ]"
+	//"$detailblendfactor" 	"1"
+}

@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	// original shader: vertexlitselfilluminatedtexture
+	"$basetexture" "models/props_c17/glassfluorescentlighton01"
+	"$selfillum" 1
+}
+

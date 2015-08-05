@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	"$basetexture" "train/baremetal"
+	"$surfaceprop" "metal"
+}

@@ -1,0 +1,8 @@
+vertexlitgeneric
+{
+	"$basetexture" "train/roughplastic_grey"
+	"$surfaceprop" "plastic"
+	"$bumpmap"    "train/roughplastic_normal"	
+}
+
+

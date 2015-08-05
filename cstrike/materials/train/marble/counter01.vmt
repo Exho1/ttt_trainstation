@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "train/marble/counter01"
+	"$Surfaceprop" "rock"
+	
+	"$Envmap" "env_cubemap"
+	"$EnvmapMask"	"train/marble\counter01_ref"
+	"$EnvmapTint" "[.2 .2 .2]"
+	"$EnvmapContrast" ".6"
+	"$EnvmapSaturation" ".5"
+
+}

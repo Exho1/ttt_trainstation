@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "csgo/environment maps/pipeset_metal"
+	"$surfaceprop" "metal"
+}

@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" 			"train/marble/counter02"
+	"$surfaceprop" 			"rock"
+	
+	"$envmap" 				"env_cubemap"
+	"$envmapmask"			"train\marble\counter01_ref"
+	"$envmaptint" 			"[1 1 1]"
+	"$envmapcontrast" 		".6"
+	"$envmapsaturation" 	".5"
+	
+	"%keywords"				"house, de_house"
+}

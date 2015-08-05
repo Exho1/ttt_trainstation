@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture" "train/metalplate"
+	"$surfaceprop" "metal"
+	"$Bumpmap" "train/metalplate-ssbump"
+	"$SSBump" "1"
+
+}

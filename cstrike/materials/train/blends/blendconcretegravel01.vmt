@@ -1,0 +1,7 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "train/blends/roadparkinglot"
+	"$basetexture2" "train/blends/gravelfloor002a"
+	"$surfaceprop" "concrete"
+	"$surfaceprop2" "gravel"
+}
